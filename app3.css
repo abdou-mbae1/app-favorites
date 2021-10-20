@@ -1,0 +1,37 @@
+html {
+    font-style: inherit ;
+    color: red;
+    background-color: linear-gradient ( black,white);}
+
+
+
+body {width: 100%;
+    position: absolute;
+    margin :0px;
+    padding :0px;}
+
+main {width: 80%;
+margin: 0% auto;
+text-align: center;}
+
+.App3  {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;}
+
+.App3 .Youtube {
+    margin-top: 100px;}
+
+h2 {
+    text-align: center;}
+
+p {
+    text-align: center;
+    border-width: 2px ;
+    border-style: double ;}
+
+.I3 {
+        border: 5px blue;   
+        display: flex;
+        flex-wrap: nowrap;
+        justify-content: center}
